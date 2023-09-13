@@ -3,7 +3,7 @@ My initial UE project is designed to evaluate the interhaptics SDK.
 <br>
 It is built upon the UE4 FPS sample project (with blueprint). I made adjustments to the FirstPersonCharacter blueprint and incorporated additional nodes to facilitate vibration upon receiving the 'Fire' input event.
 <br>
-<img  src="bp_change.jpg" width="500" />
+<img  src="bp_change.jpg" width="600" />
 
 *Testing Instructions*
 <br>
